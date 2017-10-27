@@ -14,6 +14,9 @@
 
 * Fast and easy url -> image convertion
 
+### Functools
+
+* Attaching additional objects to an event
 ___
 
 #### Methods
